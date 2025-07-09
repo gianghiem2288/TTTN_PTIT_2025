@@ -14,7 +14,7 @@ H[RF: Register File] --> B & F
 I[Top: Integration] --> Tất_cả[All Modules]
 ```
 
-#### **Phân nhóm & nhiệm vụ chi tiết**
+#### **Phân nhóm & nhiệm vụ chi tiết (Nhóm 05 sinh viên)**
 1. **Group 1: Instruction Fetch (IF)**  
    - Nhiệm vụ: Truy xuất lệnh từ bộ nhớ, quản lý Program Counter  
 
